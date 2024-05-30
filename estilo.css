@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'fonte_google';
+    src: url(./fontes/Titan_One/TitanOne-Regular.ttf);
+}
+
+.body{
+    background-color: #FFFAEE;
+}
+
+.img{
+    height: 220px;
+    width: 220px;
+    position: fixed;
+    margin-left: 85%;
+    margin-top: -3%;
+}
+
+.title{
+    font-size: 50px;
+    font-family: 'fonte_google';
+    text-align: center;
+    color: #B81D09;
+}
+
+.subtitle{
+    font-size: 30px;
+    font-family: 'fonte_google';
+    text-align: center;
+    color: #B81D09;
+}
+
+.img_produtos{
+    height: 60px;
+    width: 60px;
+
+}
+
+.produtos{
+    font-size: 25px;
+    align-items: center;
+    text-align: center;
+    color: #B81D09;
+}
+
+.bnt_enviar{
+    padding-top: 35px;
+    margin-left: 13px;
+    align-items: center;
+    text-align: center;
+}
+
+#bnt_enviar{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: #B81D09 solid 1px;
+    color: #B81D09;
+    background-color: #FFFAEE;
+}
+
+#bauru{
+    margin-left: 3.3%;
+}
+
+#frango{
+    margin-left: 2.8%;
+}
+
+#calabresa{
+    margin-left: 0.9%;
+}

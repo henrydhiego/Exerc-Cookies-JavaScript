@@ -16,14 +16,22 @@
 }
 
 .title{
+<<<<<<< HEAD
     font-size: 50px;
+=======
+    font-size: 60px;
+>>>>>>> origin/main
     font-family: 'fonte_google';
     text-align: center;
     color: #B81D09;
 }
 
 .subtitle{
+<<<<<<< HEAD
     font-size: 30px;
+=======
+    font-size: 40px;
+>>>>>>> origin/main
     font-family: 'fonte_google';
     text-align: center;
     color: #B81D09;
